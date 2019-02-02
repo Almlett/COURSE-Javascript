@@ -1,9 +1,8 @@
 # ReactCourse
-Curso de react
 
 Visual Studio Code
 
-Extensions
+<b>Extensions</b>
 Beautify  1.4.8
   HookyQR
   
