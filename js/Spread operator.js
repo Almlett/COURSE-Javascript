@@ -10,4 +10,3 @@ let frameworks = ['ReactJS','Laravel','Django']
 //Forma chida
 let combinacion = [...lenguajes,...frameworks]
 console.log(combinacion)
-
